@@ -1,0 +1,2137 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,AEB,Seccio_Censal,Valor,SEXE
+2021-01-01,1,Ciutat Vella,1,el Raval,1,1001,606,1
+2021-01-01,1,Ciutat Vella,1,el Raval,1,1001,705,2
+2021-01-01,1,Ciutat Vella,1,el Raval,1,1002,704,1
+2021-01-01,1,Ciutat Vella,1,el Raval,1,1002,785,2
+2021-01-01,1,Ciutat Vella,1,el Raval,2,1003,1636,1
+2021-01-01,1,Ciutat Vella,1,el Raval,2,1003,2025,2
+2021-01-01,1,Ciutat Vella,1,el Raval,2,1004,1340,1
+2021-01-01,1,Ciutat Vella,1,el Raval,2,1004,1632,2
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1005,1140,1
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1005,1308,2
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1006,704,1
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1006,927,2
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1007,804,1
+2021-01-01,1,Ciutat Vella,1,el Raval,3,1007,1211,2
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1008,1361,1
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1008,2036,2
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1009,1016,1
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1009,1228,2
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1010,1126,1
+2021-01-01,1,Ciutat Vella,1,el Raval,4,1010,1375,2
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1011,1478,1
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1011,1862,2
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1012,954,1
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1012,992,2
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1013,760,1
+2021-01-01,1,Ciutat Vella,1,el Raval,5,1013,711,2
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1014,954,1
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1014,1200,2
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1015,1151,1
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1015,1204,2
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1016,1068,1
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1016,1091,2
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1017,1298,1
+2021-01-01,1,Ciutat Vella,1,el Raval,6,1017,1296,2
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1018,765,1
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1018,803,2
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1019,1373,1
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1019,1632,2
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1020,1158,1
+2021-01-01,1,Ciutat Vella,1,el Raval,7,1020,1079,2
+2021-01-01,1,Ciutat Vella,1,el Raval,8,1021,1070,1
+2021-01-01,1,Ciutat Vella,1,el Raval,8,1021,1120,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,736,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,834,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,1056,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,1042,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,683,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,704,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,1855,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,6835,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,794,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,770,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,1009,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,950,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,723,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,758,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1237,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1258,2
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,750,1
+2021-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,856,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,918,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,944,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,553,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,578,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,488,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,474,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,621,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,634,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,628,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,566,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,726,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,655,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,726,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,811,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,687,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,688,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,554,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,535,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,801,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,776,2
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,945,1
+2021-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,817,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,791,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,838,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,747,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,678,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1006,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1006,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,862,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,930,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,932,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,849,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1095,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1044,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,799,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,721,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,764,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,780,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,908,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,955,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1265,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1593,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,969,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,893,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,619,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,649,2
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,674,1
+2021-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,642,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2001,648,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2001,631,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2002,1613,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2002,1943,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2003,644,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2003,501,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2004,785,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2004,763,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2005,1123,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2005,950,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2006,896,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2006,779,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2007,691,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2007,558,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2008,1023,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2008,895,2
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2009,978,1
+2021-01-01,2,Eixample,5,el Fort Pienc,20,2009,844,2
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2010,654,1
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2010,582,2
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2011,571,1
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2011,548,2
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2012,806,1
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2012,757,2
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2013,602,1
+2021-01-01,2,Eixample,5,el Fort Pienc,21,2013,580,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2014,702,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2014,686,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2015,811,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2015,755,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2016,1016,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2016,847,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2017,1042,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2017,900,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2018,990,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2018,835,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2019,1055,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2019,937,2
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2020,793,1
+2021-01-01,2,Eixample,5,el Fort Pienc,22,2020,711,2
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2021,798,1
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2021,709,2
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2022,684,1
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2022,660,2
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2023,574,1
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2023,470,2
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2024,640,1
+2021-01-01,2,Eixample,6,la Sagrada Família,23,2024,520,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2025,606,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2025,558,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2026,1202,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2026,977,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2027,1113,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2027,967,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2028,1142,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2028,951,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2029,692,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2029,583,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2030,730,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2030,620,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2031,567,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2031,472,2
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2032,629,1
+2021-01-01,2,Eixample,6,la Sagrada Família,24,2032,493,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2033,655,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2033,567,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2034,675,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2034,528,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2035,715,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2035,581,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2036,661,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2036,528,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2037,627,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2037,583,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2038,815,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2038,744,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2039,967,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2039,754,2
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2040,887,1
+2021-01-01,2,Eixample,6,la Sagrada Família,25,2040,814,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2041,922,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2041,757,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2042,865,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2042,704,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2043,784,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2043,726,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2044,718,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2044,595,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2045,625,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2045,534,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2046,1041,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2046,916,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2047,1037,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2047,925,2
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2048,708,1
+2021-01-01,2,Eixample,6,la Sagrada Família,26,2048,592,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2049,1124,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2049,977,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2050,893,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2050,758,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2051,1032,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2051,911,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2052,970,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2052,846,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2053,994,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2053,873,2
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2054,1026,1
+2021-01-01,2,Eixample,6,la Sagrada Família,27,2054,853,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,978,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,861,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,799,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,677,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,682,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,589,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,726,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,650,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,941,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,732,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,963,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,775,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,758,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,607,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,795,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,742,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,718,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,491,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,720,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,615,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,989,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,897,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,939,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,798,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,887,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,772,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,861,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,772,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,721,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,652,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,702,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,590,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,894,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,814,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,612,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,590,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,881,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,769,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,632,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,610,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,683,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,618,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,854,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,760,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,841,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,889,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,730,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,646,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,712,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,690,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,784,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,807,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,1157,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,971,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,480,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,421,2
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,992,1
+2021-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,852,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,1140,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,936,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,788,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,629,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,779,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,664,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,812,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,665,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,889,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,775,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,944,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,846,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,932,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,796,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,1005,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,1071,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,991,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,1365,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,876,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,803,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,772,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,746,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,781,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,765,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,748,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,688,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,565,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,519,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,798,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,700,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,844,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,758,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,705,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,633,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,1194,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,1047,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,770,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,607,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,867,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,768,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,644,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,538,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,1164,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,954,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,755,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,651,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,906,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,748,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,899,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,745,2
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,1117,1
+2021-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,944,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,1024,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,881,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,999,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,834,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,695,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,609,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,1151,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,1055,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,927,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,752,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,727,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,623,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,536,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,452,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,672,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,543,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,812,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,691,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,669,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,604,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,604,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,559,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,650,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,590,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,568,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,480,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,578,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,545,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,593,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,484,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,921,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,763,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,800,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,676,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,600,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,551,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,711,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,616,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,837,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,679,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,589,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,518,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,610,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,533,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,545,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,508,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,464,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,370,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,771,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,707,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,1131,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,1015,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,487,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,405,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,777,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,707,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,1027,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,935,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,894,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,784,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,1021,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,866,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,635,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,545,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,1072,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,973,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,697,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,686,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,827,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,733,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,642,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,598,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,641,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,549,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1135,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1012,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,876,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,735,2
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,928,1
+2021-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,897,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2150,812,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2150,731,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2151,805,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2151,700,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2152,685,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2152,571,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2153,708,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2153,625,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2154,557,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2154,530,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2155,988,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2155,869,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2156,662,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2156,611,2
+2021-01-01,2,Eixample,10,Sant Antoni,51,2157,658,1
+2021-01-01,2,Eixample,10,Sant Antoni,51,2157,559,2
+2021-01-01,2,Eixample,10,Sant Antoni,52,2158,831,1
+2021-01-01,2,Eixample,10,Sant Antoni,52,2158,774,2
+2021-01-01,2,Eixample,10,Sant Antoni,52,2159,1020,1
+2021-01-01,2,Eixample,10,Sant Antoni,52,2159,956,2
+2021-01-01,2,Eixample,10,Sant Antoni,52,2160,1040,1
+2021-01-01,2,Eixample,10,Sant Antoni,52,2160,953,2
+2021-01-01,2,Eixample,10,Sant Antoni,52,2161,626,1
+2021-01-01,2,Eixample,10,Sant Antoni,52,2161,572,2
+2021-01-01,2,Eixample,10,Sant Antoni,52,2162,718,1
+2021-01-01,2,Eixample,10,Sant Antoni,52,2162,689,2
+2021-01-01,2,Eixample,10,Sant Antoni,53,2163,960,1
+2021-01-01,2,Eixample,10,Sant Antoni,53,2163,885,2
+2021-01-01,2,Eixample,10,Sant Antoni,53,2164,749,1
+2021-01-01,2,Eixample,10,Sant Antoni,53,2164,718,2
+2021-01-01,2,Eixample,10,Sant Antoni,53,2165,880,1
+2021-01-01,2,Eixample,10,Sant Antoni,53,2165,836,2
+2021-01-01,2,Eixample,10,Sant Antoni,54,2166,1100,1
+2021-01-01,2,Eixample,10,Sant Antoni,54,2166,1019,2
+2021-01-01,2,Eixample,10,Sant Antoni,54,2167,1107,1
+2021-01-01,2,Eixample,10,Sant Antoni,54,2167,1021,2
+2021-01-01,2,Eixample,10,Sant Antoni,54,2168,1211,1
+2021-01-01,2,Eixample,10,Sant Antoni,54,2168,1067,2
+2021-01-01,2,Eixample,10,Sant Antoni,55,2169,793,1
+2021-01-01,2,Eixample,10,Sant Antoni,55,2169,742,2
+2021-01-01,2,Eixample,10,Sant Antoni,55,2170,840,1
+2021-01-01,2,Eixample,10,Sant Antoni,55,2170,715,2
+2021-01-01,2,Eixample,10,Sant Antoni,55,2171,857,1
+2021-01-01,2,Eixample,10,Sant Antoni,55,2171,816,2
+2021-01-01,2,Eixample,10,Sant Antoni,55,2172,842,1
+2021-01-01,2,Eixample,10,Sant Antoni,55,2172,759,2
+2021-01-01,2,Eixample,10,Sant Antoni,55,2173,804,1
+2021-01-01,2,Eixample,10,Sant Antoni,55,2173,729,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,887,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,808,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,973,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,935,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,882,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,820,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,856,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,779,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,636,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,569,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,713,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,699,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,895,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,808,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,613,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,567,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,646,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,587,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,928,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,1003,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,879,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,895,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1107,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1063,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,916,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,898,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,913,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,906,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1533,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1499,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,656,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,603,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,845,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,855,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,859,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,875,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,809,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,735,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,593,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,613,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,563,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,512,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,726,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,730,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,974,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,962,2
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,1027,1
+2021-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,1054,2
+2021-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,657,1
+2021-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,699,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,532,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,483,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,915,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,848,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,1353,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,1311,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,675,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,627,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,856,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,722,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1257,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1154,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,886,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,830,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,737,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,752,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,795,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,722,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,783,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,756,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1178,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1083,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1252,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1151,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,534,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,493,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1304,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1165,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1251,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1180,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,502,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,456,2
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1331,1
+2021-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1218,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,788,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,678,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,735,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,668,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,704,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,684,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,875,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,743,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,978,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,907,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,547,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,513,2
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,750,1
+2021-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,669,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,919,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,847,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,704,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,623,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,882,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,779,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,829,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,813,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,988,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,976,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,706,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,619,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1151,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1064,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,841,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,797,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,853,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,770,2
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,505,1
+2021-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,436,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,770,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,696,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,931,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,812,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,613,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,592,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,712,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,694,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,611,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,529,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,823,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,717,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,985,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,961,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,639,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,566,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,699,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,645,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1201,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1116,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,938,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,827,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,627,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,551,2
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,620,1
+2021-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,576,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,684,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,670,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,702,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,647,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,766,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,681,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,818,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,761,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,975,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,847,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,927,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,825,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,590,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,512,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,725,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,613,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,923,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,829,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,976,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,851,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,852,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,689,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,1036,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,931,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,1029,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,874,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,747,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,646,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,761,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,653,2
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,728,1
+2021-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,635,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3086,641,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3086,600,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3087,767,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3087,677,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3088,760,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3088,684,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3089,673,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3089,581,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3090,538,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3090,460,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3091,761,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3091,724,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3092,644,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3092,572,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3093,816,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3093,691,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3094,662,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,72,3094,568,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3095,873,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3095,761,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3096,845,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3096,744,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3097,881,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3097,809,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3098,731,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3098,714,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3099,541,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3099,447,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3100,732,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,73,3100,596,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3101,1725,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3101,2551,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3102,683,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3102,622,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3103,627,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3103,521,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3104,749,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,74,3104,682,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,75,3105,664,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,75,3105,527,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,75,3106,679,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,75,3106,594,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3107,840,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3107,808,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3108,875,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3108,789,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3109,788,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3109,753,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3110,796,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3110,697,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3111,701,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3111,594,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3112,979,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3112,868,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3113,854,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3113,751,2
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3114,775,1
+2021-01-01,3,Sants-Montjuïc,18,Sants,76,3114,694,2
+2021-01-01,4,Les Corts,19,les Corts,77,4001,665,1
+2021-01-01,4,Les Corts,19,les Corts,77,4001,593,2
+2021-01-01,4,Les Corts,19,les Corts,77,4002,999,1
+2021-01-01,4,Les Corts,19,les Corts,77,4002,918,2
+2021-01-01,4,Les Corts,19,les Corts,77,4003,531,1
+2021-01-01,4,Les Corts,19,les Corts,77,4003,494,2
+2021-01-01,4,Les Corts,19,les Corts,77,4004,509,1
+2021-01-01,4,Les Corts,19,les Corts,77,4004,479,2
+2021-01-01,4,Les Corts,19,les Corts,77,4005,667,1
+2021-01-01,4,Les Corts,19,les Corts,77,4005,558,2
+2021-01-01,4,Les Corts,19,les Corts,77,4006,597,1
+2021-01-01,4,Les Corts,19,les Corts,77,4006,503,2
+2021-01-01,4,Les Corts,19,les Corts,77,4007,592,1
+2021-01-01,4,Les Corts,19,les Corts,77,4007,470,2
+2021-01-01,4,Les Corts,19,les Corts,77,4008,539,1
+2021-01-01,4,Les Corts,19,les Corts,77,4008,462,2
+2021-01-01,4,Les Corts,19,les Corts,77,4009,787,1
+2021-01-01,4,Les Corts,19,les Corts,77,4009,674,2
+2021-01-01,4,Les Corts,19,les Corts,78,4010,484,1
+2021-01-01,4,Les Corts,19,les Corts,78,4010,414,2
+2021-01-01,4,Les Corts,19,les Corts,78,4011,926,1
+2021-01-01,4,Les Corts,19,les Corts,78,4011,814,2
+2021-01-01,4,Les Corts,19,les Corts,78,4012,741,1
+2021-01-01,4,Les Corts,19,les Corts,78,4012,635,2
+2021-01-01,4,Les Corts,19,les Corts,78,4013,648,1
+2021-01-01,4,Les Corts,19,les Corts,78,4013,560,2
+2021-01-01,4,Les Corts,19,les Corts,78,4014,447,1
+2021-01-01,4,Les Corts,19,les Corts,78,4014,373,2
+2021-01-01,4,Les Corts,19,les Corts,78,4015,1032,1
+2021-01-01,4,Les Corts,19,les Corts,78,4015,847,2
+2021-01-01,4,Les Corts,19,les Corts,78,4016,587,1
+2021-01-01,4,Les Corts,19,les Corts,78,4016,515,2
+2021-01-01,4,Les Corts,19,les Corts,79,4017,652,1
+2021-01-01,4,Les Corts,19,les Corts,79,4017,543,2
+2021-01-01,4,Les Corts,19,les Corts,79,4018,830,1
+2021-01-01,4,Les Corts,19,les Corts,79,4018,681,2
+2021-01-01,4,Les Corts,19,les Corts,79,4019,702,1
+2021-01-01,4,Les Corts,19,les Corts,79,4019,633,2
+2021-01-01,4,Les Corts,19,les Corts,79,4020,807,1
+2021-01-01,4,Les Corts,19,les Corts,79,4020,681,2
+2021-01-01,4,Les Corts,19,les Corts,79,4021,691,1
+2021-01-01,4,Les Corts,19,les Corts,79,4021,588,2
+2021-01-01,4,Les Corts,19,les Corts,80,4022,846,1
+2021-01-01,4,Les Corts,19,les Corts,80,4022,769,2
+2021-01-01,4,Les Corts,19,les Corts,81,4023,560,1
+2021-01-01,4,Les Corts,19,les Corts,81,4023,485,2
+2021-01-01,4,Les Corts,19,les Corts,81,4024,554,1
+2021-01-01,4,Les Corts,19,les Corts,81,4024,478,2
+2021-01-01,4,Les Corts,19,les Corts,82,4025,640,1
+2021-01-01,4,Les Corts,19,les Corts,82,4025,531,2
+2021-01-01,4,Les Corts,19,les Corts,82,4026,668,1
+2021-01-01,4,Les Corts,19,les Corts,82,4026,535,2
+2021-01-01,4,Les Corts,19,les Corts,82,4027,713,1
+2021-01-01,4,Les Corts,19,les Corts,82,4027,625,2
+2021-01-01,4,Les Corts,19,les Corts,83,4028,706,1
+2021-01-01,4,Les Corts,19,les Corts,83,4028,611,2
+2021-01-01,4,Les Corts,19,les Corts,83,4029,617,1
+2021-01-01,4,Les Corts,19,les Corts,83,4029,499,2
+2021-01-01,4,Les Corts,19,les Corts,83,4030,1013,1
+2021-01-01,4,Les Corts,19,les Corts,83,4030,831,2
+2021-01-01,4,Les Corts,19,les Corts,84,4031,958,1
+2021-01-01,4,Les Corts,19,les Corts,84,4031,938,2
+2021-01-01,4,Les Corts,19,les Corts,84,4032,843,1
+2021-01-01,4,Les Corts,19,les Corts,84,4032,682,2
+2021-01-01,4,Les Corts,19,les Corts,84,4033,626,1
+2021-01-01,4,Les Corts,19,les Corts,84,4033,521,2
+2021-01-01,4,Les Corts,19,les Corts,84,4034,762,1
+2021-01-01,4,Les Corts,19,les Corts,84,4034,706,2
+2021-01-01,4,Les Corts,19,les Corts,84,4035,747,1
+2021-01-01,4,Les Corts,19,les Corts,84,4035,611,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,950,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,787,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,1128,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,960,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,679,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,580,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,631,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,554,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,825,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,779,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,707,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,632,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,939,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,814,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,865,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,748,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,839,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,729,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,761,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,660,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1255,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1158,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,990,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,858,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,803,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,686,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,618,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,538,2
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,732,1
+2021-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,620,2
+2021-01-01,4,Les Corts,21,Pedralbes,88,4050,1067,1
+2021-01-01,4,Les Corts,21,Pedralbes,88,4050,961,2
+2021-01-01,4,Les Corts,21,Pedralbes,88,4051,916,1
+2021-01-01,4,Les Corts,21,Pedralbes,88,4051,719,2
+2021-01-01,4,Les Corts,21,Pedralbes,88,4052,1201,1
+2021-01-01,4,Les Corts,21,Pedralbes,88,4052,991,2
+2021-01-01,4,Les Corts,21,Pedralbes,89,4053,881,1
+2021-01-01,4,Les Corts,21,Pedralbes,89,4053,809,2
+2021-01-01,4,Les Corts,21,Pedralbes,89,4054,534,1
+2021-01-01,4,Les Corts,21,Pedralbes,89,4054,464,2
+2021-01-01,4,Les Corts,21,Pedralbes,90,4055,778,1
+2021-01-01,4,Les Corts,21,Pedralbes,90,4055,727,2
+2021-01-01,4,Les Corts,21,Pedralbes,90,4056,929,1
+2021-01-01,4,Les Corts,21,Pedralbes,90,4056,831,2
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,888,1
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,899,2
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,811,1
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,775,2
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,706,1
+2021-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,681,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,644,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,469,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,623,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,608,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,901,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,871,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,901,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,939,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,896,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,790,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,938,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,778,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,799,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,717,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,776,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,636,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,738,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,609,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,875,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,790,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,853,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,739,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,844,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,683,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,1009,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,848,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,839,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,717,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,682,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,573,2
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,925,1
+2021-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,759,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,629,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,526,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,685,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,604,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,971,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,776,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,796,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,672,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,1025,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,882,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,695,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,614,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,737,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,668,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,743,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,662,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,832,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,809,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,849,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,782,2
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,750,1
+2021-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,649,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,851,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,774,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,984,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,851,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,747,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,677,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,688,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,638,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,531,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,506,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,906,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,802,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,814,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,637,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,734,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,614,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,819,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,718,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,787,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,649,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,1000,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,939,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,683,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,610,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,804,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,660,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,739,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,587,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,896,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,719,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,641,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,497,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,684,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,550,2
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,695,1
+2021-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,553,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,919,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,746,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,863,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,758,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,870,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,741,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,803,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,635,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,799,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,704,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,584,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,463,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,764,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,643,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,697,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,504,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,879,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,783,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,845,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,707,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,863,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,683,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,655,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,502,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,828,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,632,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,925,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,711,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,853,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,698,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,900,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,706,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,900,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,752,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,741,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,602,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,683,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,563,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,839,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,697,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,935,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,810,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,799,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,641,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,916,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,712,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,959,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,764,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,882,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,727,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,900,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,768,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,1045,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,806,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,776,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,640,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,789,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,659,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,1137,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,972,2
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,688,1
+2021-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,581,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,745,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,631,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,875,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,735,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,898,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,739,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,692,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,585,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,746,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,598,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,701,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,631,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,727,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,620,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,873,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,725,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,896,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,861,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,926,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,862,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,1017,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,889,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,867,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,688,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,872,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,750,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,630,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,474,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1502,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1209,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,935,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,753,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,637,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,513,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,848,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,773,2
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,867,1
+2021-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,696,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,688,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,497,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,837,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,701,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1187,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1107,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,734,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,713,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,538,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,492,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,1052,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,915,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,1114,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,890,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,688,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,601,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,568,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,509,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,690,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,625,2
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,623,1
+2021-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,556,2
+2021-01-01,6,Gràcia,29,el Coll,118,6013,959,1
+2021-01-01,6,Gràcia,29,el Coll,118,6013,842,2
+2021-01-01,6,Gràcia,29,el Coll,118,6014,793,1
+2021-01-01,6,Gràcia,29,el Coll,118,6014,664,2
+2021-01-01,6,Gràcia,29,el Coll,118,6015,763,1
+2021-01-01,6,Gràcia,29,el Coll,118,6015,678,2
+2021-01-01,6,Gràcia,29,el Coll,118,6016,871,1
+2021-01-01,6,Gràcia,29,el Coll,118,6016,770,2
+2021-01-01,6,Gràcia,29,el Coll,118,6017,712,1
+2021-01-01,6,Gràcia,29,el Coll,118,6017,636,2
+2021-01-01,6,Gràcia,30,la Salut,119,6018,704,1
+2021-01-01,6,Gràcia,30,la Salut,119,6018,644,2
+2021-01-01,6,Gràcia,30,la Salut,119,6019,795,1
+2021-01-01,6,Gràcia,30,la Salut,119,6019,700,2
+2021-01-01,6,Gràcia,30,la Salut,119,6020,631,1
+2021-01-01,6,Gràcia,30,la Salut,119,6020,545,2
+2021-01-01,6,Gràcia,30,la Salut,119,6021,738,1
+2021-01-01,6,Gràcia,30,la Salut,119,6021,642,2
+2021-01-01,6,Gràcia,30,la Salut,120,6022,677,1
+2021-01-01,6,Gràcia,30,la Salut,120,6022,693,2
+2021-01-01,6,Gràcia,30,la Salut,120,6023,704,1
+2021-01-01,6,Gràcia,30,la Salut,120,6023,598,2
+2021-01-01,6,Gràcia,30,la Salut,120,6024,950,1
+2021-01-01,6,Gràcia,30,la Salut,120,6024,786,2
+2021-01-01,6,Gràcia,30,la Salut,120,6025,777,1
+2021-01-01,6,Gràcia,30,la Salut,120,6025,630,2
+2021-01-01,6,Gràcia,30,la Salut,120,6026,556,1
+2021-01-01,6,Gràcia,30,la Salut,120,6026,469,2
+2021-01-01,6,Gràcia,30,la Salut,120,6027,680,1
+2021-01-01,6,Gràcia,30,la Salut,120,6027,536,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,684,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,644,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,685,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,600,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,710,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,643,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,608,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,498,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,645,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,524,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,712,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,576,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,670,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,547,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,580,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,494,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,838,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,648,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,600,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,544,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,840,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,646,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,864,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,721,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,948,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,718,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,957,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,782,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,889,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,804,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,678,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,592,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,832,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,736,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,704,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,604,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,622,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,525,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,669,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,553,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,757,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,656,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,652,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,514,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,710,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,625,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,698,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,542,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,830,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,677,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,817,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,676,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,834,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,791,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,794,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,640,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,852,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,716,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,856,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,677,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,946,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,776,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,800,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,705,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,952,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,824,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,678,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,622,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,657,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,555,2
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,820,1
+2021-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,673,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,1066,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,860,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,622,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,538,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,550,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,433,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,967,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,803,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,877,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,678,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,587,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,498,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,1047,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,793,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,587,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,507,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,889,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,757,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,751,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,626,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,591,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,557,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,563,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,507,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,668,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,634,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,652,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,537,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,684,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,614,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,632,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,497,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,624,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,552,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,732,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,595,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,1388,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,1317,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,901,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,834,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,825,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,661,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,703,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,564,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,519,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,465,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,1009,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,858,2
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,687,1
+2021-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,546,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,869,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,708,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,639,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,511,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,715,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,593,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,824,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,710,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,756,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,677,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,515,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,451,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,761,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,635,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,743,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,686,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,661,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,523,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,720,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,646,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,608,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,535,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,846,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,710,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,641,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,567,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,475,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,402,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,746,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,681,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,694,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,671,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,945,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,786,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,930,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,762,2
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,789,1
+2021-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,711,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,935,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,805,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,545,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,517,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,616,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,543,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,655,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,650,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,799,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,693,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,772,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,683,2
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,597,1
+2021-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,510,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,1119,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,991,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,754,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,718,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,668,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,623,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,776,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,621,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,830,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,767,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,741,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,706,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,767,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,677,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,966,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,874,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,951,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,833,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,766,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,631,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,799,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,686,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,663,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,593,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,883,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,750,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,815,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,667,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,735,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,631,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,831,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,681,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,760,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,655,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,701,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,620,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,828,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,785,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,748,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,649,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,771,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,722,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,731,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,603,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,650,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,587,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,644,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,572,2
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,968,1
+2021-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,818,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,646,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,610,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,779,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,678,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,839,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,753,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,638,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,550,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,609,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,594,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,758,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,686,2
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,709,1
+2021-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,656,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,698,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,637,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,956,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,898,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,620,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,590,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,714,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,666,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,755,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,705,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,914,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,809,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,946,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,838,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,948,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,863,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,842,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,739,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,715,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,622,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,768,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,700,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,778,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,693,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,719,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,638,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,750,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,654,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,625,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,520,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,900,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,816,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,637,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,594,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,734,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,669,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,700,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,658,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,718,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,691,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,776,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,693,2
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,953,1
+2021-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,865,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,1021,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,967,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,666,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,620,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,722,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,661,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,686,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,683,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,637,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,616,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,762,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,696,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,868,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,729,2
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,886,1
+2021-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,824,2
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,742,1
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,606,2
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,763,1
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,718,2
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,645,1
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,572,2
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,871,1
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,700,2
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,875,1
+2021-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,893,2
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7094,685,1
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7094,571,2
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7095,826,1
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7095,730,2
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7096,804,1
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7096,636,2
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7097,497,1
+2021-01-01,7,Horta-Guinardó,40,Montbau,151,7097,365,2
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,1170,1
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,1017,2
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,540,1
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,496,2
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,658,1
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,555,2
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,801,1
+2021-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,695,2
+2021-01-01,7,Horta-Guinardó,42,la Clota,153,7102,335,1
+2021-01-01,7,Horta-Guinardó,42,la Clota,153,7102,363,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7103,832,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7103,751,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7104,828,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7104,727,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7105,552,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7105,483,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7106,632,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7106,544,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7107,616,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7107,565,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7108,658,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7108,577,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7109,875,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7109,772,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7110,578,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7110,452,2
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7111,503,1
+2021-01-01,7,Horta-Guinardó,43,Horta,154,7111,390,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7112,679,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7112,624,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7113,633,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7113,565,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7114,636,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7114,553,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7115,568,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7115,492,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7116,837,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7116,680,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7117,1316,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7117,1457,2
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7118,677,1
+2021-01-01,7,Horta-Guinardó,43,Horta,155,7118,565,2
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7119,692,1
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7119,600,2
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7120,695,1
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7120,561,2
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7121,640,1
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7121,517,2
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7122,723,1
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7122,590,2
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7123,748,1
+2021-01-01,7,Horta-Guinardó,43,Horta,156,7123,672,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,678,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,581,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,676,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,575,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,637,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,559,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,785,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,636,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,618,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,536,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,862,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,755,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,659,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,531,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,865,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,757,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,934,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,859,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,592,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,495,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,632,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,545,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,739,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,578,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,643,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,524,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,705,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,593,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,825,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,641,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,625,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,508,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,728,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,655,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,805,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,708,2
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,991,1
+2021-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,840,2
+2021-01-01,8,Nou Barris,45,Porta,161,8020,739,1
+2021-01-01,8,Nou Barris,45,Porta,161,8020,651,2
+2021-01-01,8,Nou Barris,45,Porta,161,8021,787,1
+2021-01-01,8,Nou Barris,45,Porta,161,8021,678,2
+2021-01-01,8,Nou Barris,45,Porta,161,8022,671,1
+2021-01-01,8,Nou Barris,45,Porta,161,8022,581,2
+2021-01-01,8,Nou Barris,45,Porta,161,8023,749,1
+2021-01-01,8,Nou Barris,45,Porta,161,8023,645,2
+2021-01-01,8,Nou Barris,45,Porta,161,8024,741,1
+2021-01-01,8,Nou Barris,45,Porta,161,8024,621,2
+2021-01-01,8,Nou Barris,45,Porta,161,8025,666,1
+2021-01-01,8,Nou Barris,45,Porta,161,8025,523,2
+2021-01-01,8,Nou Barris,45,Porta,161,8026,744,1
+2021-01-01,8,Nou Barris,45,Porta,161,8026,640,2
+2021-01-01,8,Nou Barris,45,Porta,162,8027,709,1
+2021-01-01,8,Nou Barris,45,Porta,162,8027,699,2
+2021-01-01,8,Nou Barris,45,Porta,162,8028,602,1
+2021-01-01,8,Nou Barris,45,Porta,162,8028,494,2
+2021-01-01,8,Nou Barris,45,Porta,162,8029,801,1
+2021-01-01,8,Nou Barris,45,Porta,162,8029,700,2
+2021-01-01,8,Nou Barris,45,Porta,162,8030,786,1
+2021-01-01,8,Nou Barris,45,Porta,162,8030,716,2
+2021-01-01,8,Nou Barris,45,Porta,163,8031,695,1
+2021-01-01,8,Nou Barris,45,Porta,163,8031,603,2
+2021-01-01,8,Nou Barris,45,Porta,163,8032,698,1
+2021-01-01,8,Nou Barris,45,Porta,163,8032,594,2
+2021-01-01,8,Nou Barris,45,Porta,163,8033,784,1
+2021-01-01,8,Nou Barris,45,Porta,163,8033,703,2
+2021-01-01,8,Nou Barris,45,Porta,163,8034,712,1
+2021-01-01,8,Nou Barris,45,Porta,163,8034,534,2
+2021-01-01,8,Nou Barris,45,Porta,163,8035,2136,1
+2021-01-01,8,Nou Barris,45,Porta,163,8035,2299,2
+2021-01-01,8,Nou Barris,45,Porta,163,8036,831,1
+2021-01-01,8,Nou Barris,45,Porta,163,8036,703,2
+2021-01-01,8,Nou Barris,45,Porta,163,8037,880,1
+2021-01-01,8,Nou Barris,45,Porta,163,8037,681,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,851,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,717,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,818,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,746,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,1005,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,903,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1353,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1293,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,694,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,546,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,644,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,493,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,688,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,611,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,899,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,882,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,783,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,635,2
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,874,1
+2021-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,751,2
+2021-01-01,8,Nou Barris,47,Can Peguera,166,8048,521,1
+2021-01-01,8,Nou Barris,47,Can Peguera,166,8048,457,2
+2021-01-01,8,Nou Barris,47,Can Peguera,166,8049,660,1
+2021-01-01,8,Nou Barris,47,Can Peguera,166,8049,577,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8050,733,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8050,652,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8051,695,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8051,648,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8052,503,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8052,403,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8053,615,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8053,523,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8054,926,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8054,745,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8055,960,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8055,862,2
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8215,896,1
+2021-01-01,8,Nou Barris,48,la Guineueta,167,8215,676,2
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8056,778,1
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8056,710,2
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8057,717,1
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8057,614,2
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8058,870,1
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8058,750,2
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8059,520,1
+2021-01-01,8,Nou Barris,48,la Guineueta,168,8059,471,2
+2021-01-01,8,Nou Barris,49,Canyelles,169,8060,646,1
+2021-01-01,8,Nou Barris,49,Canyelles,169,8060,531,2
+2021-01-01,8,Nou Barris,49,Canyelles,169,8061,848,1
+2021-01-01,8,Nou Barris,49,Canyelles,169,8061,794,2
+2021-01-01,8,Nou Barris,49,Canyelles,169,8062,602,1
+2021-01-01,8,Nou Barris,49,Canyelles,169,8062,545,2
+2021-01-01,8,Nou Barris,49,Canyelles,169,8063,560,1
+2021-01-01,8,Nou Barris,49,Canyelles,169,8063,507,2
+2021-01-01,8,Nou Barris,49,Canyelles,169,8064,928,1
+2021-01-01,8,Nou Barris,49,Canyelles,169,8064,852,2
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8065,885,1
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8065,911,2
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8066,843,1
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8066,805,2
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8067,927,1
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8067,865,2
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8068,1028,1
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8068,945,2
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8069,823,1
+2021-01-01,8,Nou Barris,50,les Roquetes,170,8069,756,2
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8070,775,1
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8070,711,2
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8071,902,1
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8071,855,2
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8072,653,1
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8072,558,2
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8073,937,1
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8073,821,2
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8074,803,1
+2021-01-01,8,Nou Barris,50,les Roquetes,171,8074,760,2
+2021-01-01,8,Nou Barris,51,Verdun,172,8075,1047,1
+2021-01-01,8,Nou Barris,51,Verdun,172,8075,882,2
+2021-01-01,8,Nou Barris,51,Verdun,172,8076,880,1
+2021-01-01,8,Nou Barris,51,Verdun,172,8076,740,2
+2021-01-01,8,Nou Barris,51,Verdun,172,8077,779,1
+2021-01-01,8,Nou Barris,51,Verdun,172,8077,668,2
+2021-01-01,8,Nou Barris,51,Verdun,173,8078,831,1
+2021-01-01,8,Nou Barris,51,Verdun,173,8078,732,2
+2021-01-01,8,Nou Barris,51,Verdun,173,8079,773,1
+2021-01-01,8,Nou Barris,51,Verdun,173,8079,674,2
+2021-01-01,8,Nou Barris,51,Verdun,173,8080,804,1
+2021-01-01,8,Nou Barris,51,Verdun,173,8080,757,2
+2021-01-01,8,Nou Barris,51,Verdun,173,8081,881,1
+2021-01-01,8,Nou Barris,51,Verdun,173,8081,810,2
+2021-01-01,8,Nou Barris,51,Verdun,173,8082,885,1
+2021-01-01,8,Nou Barris,51,Verdun,173,8082,722,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8083,702,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8083,617,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8084,629,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8084,518,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8085,750,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8085,718,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8086,919,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,174,8086,795,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8087,671,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8087,586,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8088,684,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8088,597,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8089,661,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8089,580,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8090,643,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8090,566,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8091,646,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,175,8091,557,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8092,524,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8092,473,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8093,648,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8093,628,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8094,768,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8094,695,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8095,557,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,176,8095,511,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8096,809,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8096,735,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8097,732,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8097,630,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8098,667,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8098,600,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8099,767,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8099,698,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8100,706,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8100,591,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8101,925,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8101,823,2
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8102,874,1
+2021-01-01,8,Nou Barris,52,la Prosperitat,177,8102,668,2
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,848,1
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,832,2
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,658,1
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,602,2
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,794,1
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,690,2
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,645,1
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,617,2
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,1021,1
+2021-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,921,2
+2021-01-01,8,Nou Barris,54,Torre Baró,179,8108,977,1
+2021-01-01,8,Nou Barris,54,Torre Baró,179,8108,965,2
+2021-01-01,8,Nou Barris,54,Torre Baró,179,8109,485,1
+2021-01-01,8,Nou Barris,54,Torre Baró,179,8109,496,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,1039,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,1019,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,897,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,819,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,883,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,867,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,927,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,873,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,1043,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,1006,2
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,899,1
+2021-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,880,2
+2021-01-01,8,Nou Barris,56,Vallbona,181,8116,716,1
+2021-01-01,8,Nou Barris,56,Vallbona,181,8116,685,2
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1319,1
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1452,2
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1089,1
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1075,2
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1053,1
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1144,2
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,868,1
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,853,2
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,833,1
+2021-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,827,2
+2021-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,642,1
+2021-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,635,2
+2021-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,713,1
+2021-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,663,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,925,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,941,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,749,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,693,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,941,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,863,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,878,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,847,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,1072,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,969,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,1349,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,1659,2
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,956,1
+2021-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,888,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,714,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,622,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,793,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,734,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,777,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,715,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1388,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1321,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,626,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,527,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,722,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,656,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,666,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,612,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,626,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,614,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,660,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,517,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,656,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,550,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,800,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,724,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,676,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,625,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,822,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,777,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,586,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,530,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,775,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,676,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,607,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,585,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,1175,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,1036,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1668,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1544,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,757,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,658,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,844,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,758,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,741,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,660,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,790,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,784,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,950,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,812,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,814,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,722,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,844,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,742,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,744,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,628,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,691,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,569,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,717,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,612,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,765,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,727,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,767,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,659,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,687,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,636,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,850,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,770,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,741,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,638,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,724,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,610,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,805,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,728,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,652,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,600,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,643,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,571,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,867,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,739,2
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,597,1
+2021-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,510,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9055,915,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9055,825,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9056,606,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9056,551,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9057,865,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9057,791,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9058,824,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9058,698,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9059,722,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9059,675,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9060,729,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9060,611,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9156,675,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,193,9156,591,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,194,9061,854,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,194,9061,789,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,194,9062,712,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,194,9062,647,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9063,607,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9063,558,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9064,612,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9064,551,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9065,1121,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9065,970,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9066,762,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9066,681,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9067,837,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,195,9067,697,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9068,805,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9068,748,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9069,503,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9069,410,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9070,954,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9070,778,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9071,1040,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9071,880,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9072,788,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9072,673,2
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9073,792,1
+2021-01-01,9,Sant Andreu,61,la Sagrera,196,9073,721,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,897,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,781,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,808,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,758,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,803,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,666,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,897,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,738,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,772,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,671,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,863,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,781,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,706,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,640,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,928,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,810,2
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,1072,1
+2021-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,958,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9083,840,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9083,754,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9084,920,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9084,829,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9085,974,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9085,839,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9086,789,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9086,663,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9087,679,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9087,622,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9088,1059,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9088,850,2
+2021-01-01,9,Sant Andreu,63,Navas,199,9089,834,1
+2021-01-01,9,Sant Andreu,63,Navas,199,9089,693,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9090,866,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9090,741,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9091,1016,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9091,884,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9092,1008,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9092,925,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9093,703,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9093,603,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9094,1075,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9094,978,2
+2021-01-01,9,Sant Andreu,63,Navas,200,9095,1125,1
+2021-01-01,9,Sant Andreu,63,Navas,200,9095,1030,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,832,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,794,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,919,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,856,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,825,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,749,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,871,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,709,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,924,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,751,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,988,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,874,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,682,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,641,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,953,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,806,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,852,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,765,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,929,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,816,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,639,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,549,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,960,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,863,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,769,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,637,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,816,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,712,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,1000,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,934,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,632,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,601,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,916,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,766,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,781,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,693,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,839,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,732,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,778,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,704,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,708,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,661,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,736,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,628,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,784,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,651,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,742,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,711,2
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,746,1
+2021-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,614,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10026,799,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10026,728,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10027,792,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10027,690,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10028,928,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10028,884,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10029,737,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10029,683,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10030,932,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10030,819,2
+2021-01-01,10,Sant Martí,65,el Clot,205,10031,785,1
+2021-01-01,10,Sant Martí,65,el Clot,205,10031,752,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10032,710,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10032,673,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10033,475,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10033,381,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10034,904,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10034,817,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10035,1009,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10035,975,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10036,720,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10036,712,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10037,545,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10037,498,2
+2021-01-01,10,Sant Martí,65,el Clot,206,10234,992,1
+2021-01-01,10,Sant Martí,65,el Clot,206,10234,837,2
+2021-01-01,10,Sant Martí,65,el Clot,207,10038,840,1
+2021-01-01,10,Sant Martí,65,el Clot,207,10038,761,2
+2021-01-01,10,Sant Martí,65,el Clot,207,10039,984,1
+2021-01-01,10,Sant Martí,65,el Clot,207,10039,893,2
+2021-01-01,10,Sant Martí,65,el Clot,207,10040,933,1
+2021-01-01,10,Sant Martí,65,el Clot,207,10040,895,2
+2021-01-01,10,Sant Martí,65,el Clot,207,10041,871,1
+2021-01-01,10,Sant Martí,65,el Clot,207,10041,805,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,1591,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,1474,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,1217,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,1205,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,816,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,731,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,683,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,638,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,647,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,575,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,912,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,854,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,854,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,823,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,661,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,660,2
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,838,1
+2021-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,735,2
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,839,1
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,791,2
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1224,1
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1217,2
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,888,1
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,854,2
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,498,1
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,460,2
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1331,1
+2021-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1293,2
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10056,971,1
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10056,955,2
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10057,734,1
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10057,718,2
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10058,572,1
+2021-01-01,10,Sant Martí,68,el Poblenou,212,10058,566,2
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10059,928,1
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10059,852,2
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10060,837,1
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10060,841,2
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10061,920,1
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10061,841,2
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10062,785,1
+2021-01-01,10,Sant Martí,68,el Poblenou,213,10062,748,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10063,601,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10063,572,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10064,897,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10064,805,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10065,818,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10065,759,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10066,1069,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10066,1035,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10067,986,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10067,909,2
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10068,849,1
+2021-01-01,10,Sant Martí,68,el Poblenou,214,10068,827,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10069,1441,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10069,1330,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10070,876,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10070,787,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10071,946,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10071,895,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10072,1019,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10072,1002,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10073,764,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10073,711,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10074,858,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10074,809,2
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10075,804,1
+2021-01-01,10,Sant Martí,68,el Poblenou,215,10075,774,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,1147,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,1105,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,705,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,624,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,864,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,753,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,932,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,938,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,1240,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,1202,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,912,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,844,2
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,1138,1
+2021-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,1132,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,1063,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,1081,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,941,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,1028,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,995,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,1302,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,831,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,841,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,1032,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,1088,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,982,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,1007,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,946,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,933,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,847,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,827,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,1682,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,2670,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,791,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,723,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,1013,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,984,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,778,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,681,2
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,539,1
+2021-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,511,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1517,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1542,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,656,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,635,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,868,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,765,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,842,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,739,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,938,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,840,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,618,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,535,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,904,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,803,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,827,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,862,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1372,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1231,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1140,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1036,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,843,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,748,2
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,511,1
+2021-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,413,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1182,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1013,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,544,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,473,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,788,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,742,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,715,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,597,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,880,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,788,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,943,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,771,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,689,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,626,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,804,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,733,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,614,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,570,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,778,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,722,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,740,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,668,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,1017,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,857,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,680,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,594,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,524,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,470,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,619,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,538,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,807,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,658,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,850,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,745,2
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,784,1
+2021-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,706,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,695,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,654,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,577,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,533,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,568,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,522,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,529,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,476,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,512,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,505,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,855,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,731,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,599,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,558,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,626,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,576,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,594,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,520,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,680,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,580,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,902,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,807,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,877,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,682,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,649,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,589,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,728,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,642,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,821,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,762,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,852,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,747,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,897,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,816,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,861,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,810,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,585,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,532,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,842,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,780,2
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,911,1
+2021-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,816,2
