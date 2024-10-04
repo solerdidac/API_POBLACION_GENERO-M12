@@ -68,9 +68,10 @@ def import_data():
 
     conn.close()
 
-# Inicializar la base de datos y importar los datos antes de iniciar la aplicación
-init_db()
-import_data()
+# Inicializar la base de datos y cargar los datos cuando se inicia la aplicacion
+with app.app_context():
+    init_db()
+    import_data()
 
 @app.route('/')
 def home():
