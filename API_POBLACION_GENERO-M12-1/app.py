@@ -3,16 +3,16 @@ import mysql.connector
 
 app = Flask(__name__)
 
-# Configuracion de la base de datos
+# Configuración de la base de datos
 app.config['DATABASE'] = {
     'host': 'localhost',
-    'user': 'root',  # CAMBIAR
-    'password': 'sergi',  # CAMBIAR
-    'database': 'poblacio_genero'  # EL NOMBRE DE LA BASE DE DATOS
+    'user': 'root',  # Cambia por tu usuario de MySQL
+    'password': '',  # Cambia por tu password de MySQL
+    'database': 'poblacio_genero'  # El nombre de la base de datos
 }
 
 def get_db_connection():
-    """Establece una conexion a la base de datos MySQL."""
+    """Establece una conexión a la base de datos MySQL."""
     conn = mysql.connector.connect(
         host=app.config['DATABASE']['host'],
         user=app.config['DATABASE']['user'],
@@ -32,46 +32,46 @@ def get_population():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    query = "SELECT * FROM poblacio WHERE 1=1"
+    query = """
+    SELECT p.id_poblacio, p.data_referencia, s.codi_seccio_censal, b.nom_barri, 
+           d.nom_districte, p.sexe, p.valor
+    FROM poblacio p
+    JOIN seccio_censal s ON p.id_seccio_censal = s.id_seccio_censal
+    JOIN barri b ON s.id_barri = b.id_barri
+    JOIN districte d ON b.id_districte = d.id_districte
+    WHERE 1=1
+    """
     params = []
 
     # Filtrar por distrito
     districte = request.args.get('districte')
     if districte:
         if not districte.isdigit():
-            return jsonify({"error": "Codi_Districte debe ser un número"}), 400
-        query += " AND Codi_Districte = %s"
+            return jsonify({"error": "El id_districte debe ser un número"}), 400
+        query += " AND d.id_districte = %s"
         params.append(int(districte))
 
     # Filtrar por barrio
     barri = request.args.get('barri')
     if barri:
         if not barri.isdigit():
-            return jsonify({"error": "Codi_Barri debe ser un número"}), 400
-        query += " AND Codi_Barri = %s"
+            return jsonify({"error": "El id_barri debe ser un número"}), 400
+        query += " AND b.id_barri = %s"
         params.append(int(barri))
 
     # Filtrar por sexo
     sexe = request.args.get('sexe')
     if sexe:
-        if not sexe.isdigit():
-            return jsonify({"error": "SEXE debe ser un número"}), 400
-        query += " AND SEXE = %s"
+        if not sexe.isdigit() or int(sexe) not in [1, 2]:
+            return jsonify({"error": "El sexe debe ser 1 (hombres) o 2 (mujeres)"}), 400
+        query += " AND p.sexe = %s"
         params.append(int(sexe))
-
-    # Filtrar por AEB
-    aeb = request.args.get('aeb')
-    if aeb:
-        if not aeb.isdigit():
-            return jsonify({"error": "AEB debe ser un número"}), 400
-        query += " AND AEB = %s"
-        params.append(int(aeb))
 
     # Agregar paginación
     limit = request.args.get('limit', 10)
     offset = request.args.get('offset', 0)
     query += " LIMIT %s OFFSET %s"
-    params.extend([limit, offset])
+    params.extend([int(limit), int(offset)])  # Asegúrate de convertir a int
 
     try:
         cursor.execute(query, params)
@@ -80,7 +80,7 @@ def get_population():
         return jsonify({"error": str(e)}), 500
 
     # Convertir a una lista de diccionarios
-    columns = ['id', 'Data_Referencia', 'Codi_Districte', 'Nom_Districte', 'Codi_Barri', 'Nom_Barri', 'AEB', 'Seccio_Censal', 'Valor', 'SEXE']
+    columns = ['id_poblacio', 'data_referencia', 'codi_seccio_censal', 'nom_barri', 'nom_districte', 'sexe', 'valor']
     result = [dict(zip(columns, row)) for row in rows]
 
     cursor.close()
@@ -92,9 +92,9 @@ def get_population():
 def update_population(id):
     """Actualizar un registro de la población."""
     data = request.get_json()
-    required_fields = ['Data_Referencia', 'Codi_Districte', 'Nom_Districte', 'Codi_Barri', 'Nom_Barri', 'AEB', 'Seccio_Censal', 'Valor', 'SEXE']
+    required_fields = ['data_referencia', 'id_seccio_censal', 'sexe', 'valor']
 
-    # Verifica que los campos esten presentes
+    # Verifica que los campos estén presentes
     if not all(field in data for field in required_fields):
         abort(400, description="Faltan campos en la solicitud")
 
@@ -103,16 +103,15 @@ def update_population(id):
 
     try:
         # Ejecutar la consulta para actualizar
-        cursor.execute('''
-        UPDATE poblacio
-        SET Data_Referencia = %s, Codi_Districte = %s, Nom_Districte = %s, Codi_Barri = %s, Nom_Barri = %s, AEB = %s, Seccio_Censal = %s, Valor = %s, SEXE = %s
-        WHERE id = %s
-        ''', (
-            data['Data_Referencia'], data['Codi_Districte'], data['Nom_Districte'],
-            data['Codi_Barri'], data['Nom_Barri'], data['AEB'], data['Seccio_Censal'], data['Valor'], data['SEXE'], id
+        cursor.execute('''UPDATE poblacio
+        SET data_referencia = %s, id_seccio_censal = %s, sexe = %s, valor = %s
+        WHERE id_poblacio = %s''', (
+            data['data_referencia'], data['id_seccio_censal'], data['sexe'], data['valor'], id
         ))
 
         conn.commit()
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No se encontró el registro para actualizar"}), 404
     except mysql.connector.Error as e:
         conn.rollback()
         return jsonify({"error": str(e)}), 500
@@ -129,8 +128,10 @@ def delete_population(id):
     cursor = conn.cursor()
 
     try:
-        cursor.execute('DELETE FROM poblacio WHERE id = %s', (id,))
+        cursor.execute('DELETE FROM poblacio WHERE id_poblacio = %s', (id,))
         conn.commit()
+        if cursor.rowcount == 0:
+            return jsonify({"error": "No se encontró el registro para eliminar"}), 404
     except mysql.connector.Error as e:
         conn.rollback()
         return jsonify({"error": str(e)}), 500
