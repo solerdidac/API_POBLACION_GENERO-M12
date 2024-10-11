@@ -3,12 +3,14 @@ import pandas as pd
 import os
 
 def connect_db():
-    """Conectar con la base de datos MySQL"""
+    """Conectar con la base de datos MySQL usando utf8mb4 para manejar correctamente acentos."""
     return mysql.connector.connect(
         host="localhost",
         user="root",
         password="",
-        database="poblacio_genero"
+        database="poblacio_genero",
+        charset="utf8mb4",  # Usar utf8mb4 para manejar correctamente los caracteres especiales
+        use_unicode=True  # Asegurar que se manejen correctamente los caracteres Unicode
     )
 
 def insert_districte(cursor, codi_districte, nom_districte):
@@ -67,7 +69,8 @@ def import_data():
     for csv_file in csv_files:
         if os.path.exists(csv_file):
             try:
-                df = pd.read_csv(csv_file)
+                # Asegurar que se lean los archivos CSV con codificación UTF-8
+                df = pd.read_csv(csv_file, encoding='utf-8')
                 df = clean_data(df)
 
                 for _, row in df.iterrows():

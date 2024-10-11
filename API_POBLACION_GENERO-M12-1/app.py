@@ -8,7 +8,8 @@ app.config['DATABASE'] = {
     'host': 'localhost',
     'user': 'root',  # Cambia por tu usuario de MySQL
     'password': '',  # Cambia por tu password de MySQL
-    'database': 'poblacio_genero'  # El nombre de la base de datos
+    'database': 'poblacio_genero',  # El nombre de la base de datos
+    'charset': 'utf8'  # Asegúrate de utilizar el charset adecuado
 }
 
 def get_db_connection():
@@ -17,14 +18,15 @@ def get_db_connection():
         host=app.config['DATABASE']['host'],
         user=app.config['DATABASE']['user'],
         password=app.config['DATABASE']['password'],
-        database=app.config['DATABASE']['database']
+        database=app.config['DATABASE']['database'],
+        charset=app.config['DATABASE']['charset']  # Usar el charset definido
     )
     return conn
 
 @app.route('/')
 def home():
     """Ruta inicial."""
-    return "API de Població en funcionamiento,\nendpoints: /poblacio"
+    return "API de Població en funcionamiento,\nendpoints: /poblacio, /barrio, /distrito, /barrio_info"
 
 @app.route('/poblacio', methods=['GET'])
 def get_population():
@@ -71,7 +73,7 @@ def get_population():
     limit = request.args.get('limit', 10)
     offset = request.args.get('offset', 0)
     query += " LIMIT %s OFFSET %s"
-    params.extend([int(limit), int(offset)])  # Asegúrate de convertir a int
+    params.extend([int(limit), int(offset)])
 
     try:
         cursor.execute(query, params)
@@ -82,6 +84,103 @@ def get_population():
     # Convertir a una lista de diccionarios
     columns = ['id_poblacio', 'data_referencia', 'codi_seccio_censal', 'nom_barri', 'nom_districte', 'sexe', 'valor']
     result = [dict(zip(columns, row)) for row in rows]
+
+    cursor.close()
+    conn.close()
+
+    return jsonify(result)
+
+@app.route('/barrio', methods=['GET'])
+def get_population_by_barrio():
+    """Obtener el número de hombres y mujeres por barrio."""
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    SELECT b.nom_barri, 
+           SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
+           SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
+    FROM barri b
+    LEFT JOIN seccio_censal s ON b.id_barri = s.id_barri
+    LEFT JOIN poblacio p ON s.id_seccio_censal = p.id_seccio_censal
+    GROUP BY b.nom_barri
+    """
+
+    try:
+        cursor.execute(query)
+        rows = cursor.fetchall()
+    except mysql.connector.Error as e:
+        return jsonify({"error": str(e)}), 500
+
+    result = [{'nom_barri': row[0], 'hombres': row[1], 'mujeres': row[2]} for row in rows]
+
+    cursor.close()
+    conn.close()
+
+    return jsonify(result)
+
+@app.route('/distrito', methods=['GET'])
+def get_population_by_distrito():
+    """Obtener el número de hombres y mujeres por distrito."""
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    SELECT d.nom_districte, 
+           SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
+           SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
+    FROM districte d
+    LEFT JOIN barri b ON d.id_districte = b.id_districte
+    LEFT JOIN seccio_censal s ON b.id_barri = s.id_barri
+    LEFT JOIN poblacio p ON s.id_seccio_censal = p.id_seccio_censal
+    GROUP BY d.nom_districte
+    """
+
+    try:
+        cursor.execute(query)
+        rows = cursor.fetchall()
+    except mysql.connector.Error as e:
+        return jsonify({"error": str(e)}), 500
+
+    result = [{'nom_districte': row[0], 'hombres': row[1], 'mujeres': row[2]} for row in rows]
+
+    cursor.close()
+    conn.close()
+
+    return jsonify(result)
+
+@app.route('/barrio_info', methods=['GET'])
+def get_barrio_info():
+    """Obtener información detallada de los barrios filtrada por año."""
+    year = request.args.get('year', type=int)
+
+    if year is None:
+        return jsonify({"error": "Se requiere un año."}), 400
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    SELECT b.nom_barri, 
+           d.nom_districte,
+           s.id_seccio_censal,
+           SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS total_hombres,
+           SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS total_mujeres
+    FROM barri b
+    LEFT JOIN seccio_censal s ON b.id_barri = s.id_barri
+    LEFT JOIN poblacio p ON s.id_seccio_censal = p.id_seccio_censal
+    WHERE YEAR(p.data_referencia) = %s
+    GROUP BY b.nom_barri, d.nom_districte, s.id_seccio_censal
+    """
+    
+    try:
+        cursor.execute(query, (year,))
+        rows = cursor.fetchall()
+    except mysql.connector.Error as e:
+        return jsonify({"error": str(e)}), 500
+
+    result = [{'nom_barri': row[0], 'nom_districte': row[1], 'id_seccio_censal': row[2],
+               'total_hombres': row[3], 'total_mujeres': row[4]} for row in rows]
 
     cursor.close()
     conn.close()
