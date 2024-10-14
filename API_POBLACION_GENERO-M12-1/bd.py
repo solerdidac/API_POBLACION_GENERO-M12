@@ -20,7 +20,7 @@ def insert_districte(cursor, codi_districte, nom_districte):
         VALUES (%s, %s)
     """, (codi_districte, nom_districte))
 
-def insert_barri(cursor, codi_barri, nom_barri, codi_districte, aeb):
+def insert_barri(cursor, codi_barri, nom_barri, codi_districte, aeb, sexe):
     """Insertar un barrio si no existe."""
     cursor.execute("""
         INSERT IGNORE INTO barri (id_barri, nom_barri, id_districte, aeb)
