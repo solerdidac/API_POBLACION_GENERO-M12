@@ -9,8 +9,8 @@ def connect_db():
         user="root",
         password="",
         database="poblacio_genero",
-        charset="utf8mb4",  # Usar utf8mb4 para manejar correctamente los caracteres especiales
-        use_unicode=True  # Asegurar que se manejen correctamente los caracteres Unicode
+        charset="utf8mb4",
+        use_unicode=True
     )
 
 def insert_districte(cursor, codi_districte, nom_districte):
