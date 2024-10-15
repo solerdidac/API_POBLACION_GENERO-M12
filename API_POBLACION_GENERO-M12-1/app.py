@@ -61,7 +61,7 @@ def get_population():
         query += " AND b.id_barri = %s"
         params.append(int(barri))
 
-    # Filtrar por sexo
+    # Filtrar por sexo(1-2)
     sexe = request.args.get('sexe')
     if sexe:
         if not sexe.isdigit() or int(sexe) not in [1, 2]:
@@ -69,7 +69,6 @@ def get_population():
         query += " AND p.sexe = %s"
         params.append(int(sexe))
 
-    # Agregar paginación
     limit = request.args.get('limit', 10)
     offset = request.args.get('offset', 0)
     query += " LIMIT %s OFFSET %s"
@@ -81,7 +80,6 @@ def get_population():
     except mysql.connector.Error as e:
         return jsonify({"error": str(e)}), 500
 
-    # Convertir a una lista de diccionarios
     columns = ['id_poblacio', 'data_referencia', 'codi_seccio_censal', 'nom_barri', 'nom_districte', 'sexe', 'valor']
     result = [dict(zip(columns, row)) for row in rows]
 
@@ -142,7 +140,6 @@ def get_population_by_distrito():
     total_barrio = request.args.get('total_barrio')
 
     if total_barrio == "1":
-        # Nueva ruta para obtener los barrios pertenecientes a un distrito
         query = """
         SELECT d.nom_districte, GROUP_CONCAT(b.nom_barri) AS barrios
         FROM districte d
@@ -157,7 +154,6 @@ def get_population_by_distrito():
 
         result = [{'nom_districte': row[0], 'barrios': row[1].split(',')} for row in rows]
     else:
-        # Ruta existente para hombres, mujeres o el total por distrito
         query = """
         SELECT d.nom_districte, 
                SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
