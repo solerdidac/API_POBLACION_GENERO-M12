@@ -6,10 +6,10 @@ app = Flask(__name__)
 # Configuración de la base de datos
 app.config['DATABASE'] = {
     'host': 'localhost',
-    'user': 'root',  # Cambia por tu usuario de MySQL
-    'password': '',  # Cambia por tu password de MySQL
-    'database': 'poblacio_genero',  # El nombre de la base de datos
-    'charset': 'utf8'  # Asegúrate de utilizar el charset adecuado
+    'user': 'root',
+    'password': '',
+    'database': 'poblacio_genero',
+    'charset': 'utf8'
 }
 
 def get_db_connection():
@@ -19,7 +19,7 @@ def get_db_connection():
         user=app.config['DATABASE']['user'],
         password=app.config['DATABASE']['password'],
         database=app.config['DATABASE']['database'],
-        charset=app.config['DATABASE']['charset']  # Usar el charset definido
+        charset=app.config['DATABASE']['charset']
     )
     return conn
 
@@ -96,12 +96,10 @@ def get_population_by_barrio():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # Verifica si se solicita solo hombres, solo mujeres, o el total
     hombres = request.args.get('hombres')
     mujeres = request.args.get('mujeres')
     total = request.args.get('total')
 
-    # Query base
     query = """
     SELECT b.nom_barri, 
            SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
@@ -118,18 +116,13 @@ def get_population_by_barrio():
     except mysql.connector.Error as e:
         return jsonify({"error": str(e)}), 500
 
-    # Procesa los resultados
     if hombres == "1":
-        # Si se solicita solo hombres
         result = [{'nom_barri': row[0], 'hombres': row[1]} for row in rows]
     elif mujeres == "2":
-        # Si se solicita solo mujeres
         result = [{'nom_barri': row[0], 'mujeres': row[2]} for row in rows]
     elif total == "1":
-        # Si se solicita el total (suma de hombres y mujeres)
         result = [{'nom_barri': row[0], 'total': row[1] + row[2]} for row in rows]
     else:
-        # Si no, muestra ambos géneros
         result = [{'nom_barri': row[0], 'hombres': row[1], 'mujeres': row[2]} for row in rows]
 
     cursor.close()
@@ -143,42 +136,53 @@ def get_population_by_distrito():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # Verifica si se solicita solo hombres, solo mujeres, o el total
     hombres = request.args.get('hombres')
     mujeres = request.args.get('mujeres')
     total = request.args.get('total')
+    total_barrio = request.args.get('total_barrio')
 
-    # Query base
-    query = """
-    SELECT d.nom_districte, 
-           SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
-           SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
-    FROM districte d
-    LEFT JOIN barri b ON d.id_districte = b.id_districte
-    LEFT JOIN seccio_censal s ON b.id_barri = s.id_barri
-    LEFT JOIN poblacio p ON s.id_seccio_censal = p.id_seccio_censal
-    GROUP BY d.nom_districte
-    """
+    if total_barrio == "1":
+        # Nueva ruta para obtener los barrios pertenecientes a un distrito
+        query = """
+        SELECT d.nom_districte, GROUP_CONCAT(b.nom_barri) AS barrios
+        FROM districte d
+        LEFT JOIN barri b ON d.id_districte = b.id_districte
+        GROUP BY d.nom_districte
+        """
+        try:
+            cursor.execute(query)
+            rows = cursor.fetchall()
+        except mysql.connector.Error as e:
+            return jsonify({"error": str(e)}), 500
 
-    try:
-        cursor.execute(query)
-        rows = cursor.fetchall()
-    except mysql.connector.Error as e:
-        return jsonify({"error": str(e)}), 500
-
-    # Procesa los resultados
-    if hombres == "1":
-        # Si se solicita solo hombres
-        result = [{'nom_districte': row[0], 'hombres': row[1]} for row in rows]
-    elif mujeres == "2":
-        # Si se solicita solo mujeres
-        result = [{'nom_districte': row[0], 'mujeres': row[2]} for row in rows]
-    elif total == "1":
-        # Si se solicita el total (suma de hombres y mujeres)
-        result = [{'nom_districte': row[0], 'total': row[1] + row[2]} for row in rows]
+        result = [{'nom_districte': row[0], 'barrios': row[1].split(',')} for row in rows]
     else:
-        # Si no, muestra ambos géneros
-        result = [{'nom_districte': row[0], 'hombres': row[1], 'mujeres': row[2]} for row in rows]
+        # Ruta existente para hombres, mujeres o el total por distrito
+        query = """
+        SELECT d.nom_districte, 
+               SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
+               SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
+        FROM districte d
+        LEFT JOIN barri b ON d.id_districte = b.id_districte
+        LEFT JOIN seccio_censal s ON b.id_barri = s.id_barri
+        LEFT JOIN poblacio p ON s.id_seccio_censal = p.id_seccio_censal
+        GROUP BY d.nom_districte
+        """
+
+        try:
+            cursor.execute(query)
+            rows = cursor.fetchall()
+        except mysql.connector.Error as e:
+            return jsonify({"error": str(e)}), 500
+
+        if hombres == "1":
+            result = [{'nom_districte': row[0], 'hombres': row[1]} for row in rows]
+        elif mujeres == "2":
+            result = [{'nom_districte': row[0], 'mujeres': row[2]} for row in rows]
+        elif total == "1":
+            result = [{'nom_districte': row[0], 'total': row[1] + row[2]} for row in rows]
+        else:
+            result = [{'nom_districte': row[0], 'hombres': row[1], 'mujeres': row[2]} for row in rows]
 
     cursor.close()
     conn.close()
@@ -191,7 +195,6 @@ def update_population(id):
     data = request.get_json()
     required_fields = ['data_referencia', 'id_seccio_censal', 'sexe', 'valor']
 
-    # Verifica que los campos estén presentes
     if not all(field in data for field in required_fields):
         abort(400, description="Faltan campos en la solicitud")
 
@@ -199,7 +202,6 @@ def update_population(id):
     cursor = conn.cursor()
 
     try:
-        # Ejecutar la consulta para actualizar
         cursor.execute('''UPDATE poblacio
         SET data_referencia = %s, id_seccio_censal = %s, sexe = %s, valor = %s
         WHERE id_poblacio = %s''', (
@@ -214,9 +216,7 @@ def update_population(id):
         return jsonify({"error": str(e)}), 500
     finally:
         cursor.close()
-        conn.close
-
-    return jsonify({"message": "Registro eliminado correctamente"}), 200
-
+        conn.close()
+    return jsonify({"message": "Registro actualizado correctamente"}), 200
 if __name__ == '__main__':
     app.run(debug=True)
