@@ -9,7 +9,6 @@ def verify_api_key(api_key):
     return api_key == ADMIN_API_KEY
 
 def api_key_required(f):
-    # Decorador para rutas que requieren autenticación por API Key.
     @wraps(f)
     def decorated_function(*args, **kwargs):
         api_key = request.headers.get('x-api-key')
