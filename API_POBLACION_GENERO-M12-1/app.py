@@ -3,12 +3,11 @@ import mysql.connector
 
 app = Flask(__name__)
 
-# Configuración de la base de datos
 app.config['DATABASE'] = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '',
-    'database': 'poblacio_genero',
+    'host': 'claylol.mysql.pythonanywhere-services.com',
+    'user': 'claylol',
+    'password': 'sergididac12',
+    'database': 'claylol$poblacio_genero',
     'charset': 'utf8'
 }
 
@@ -33,8 +32,15 @@ def verify_api_key():
 
 @app.route('/')
 def home():
-    """Ruta inicial."""
-    return "API de Població en funcionamiento,\nendpoints: /poblacio, /barrio, /distrito"
+    return """API de Població en funcionamiento,<br>
+              endpoints: <br>
+              /poblacio<br>
+              /barrio (barrio?hombres=1, barrio?mujeres=2, barrio?total=1)<br>
+              /distrito (distrito?hombres=1, distrito?mujeres=2, distrito?total_barrio=1)"""
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
 
 @app.route('/poblacio', methods=['GET'])
 def get_population():
@@ -43,7 +49,7 @@ def get_population():
     cursor = conn.cursor()
 
     query = """
-    SELECT p.id_poblacio, p.data_referencia, s.codi_seccio_censal, b.nom_barri, 
+    SELECT p.id_poblacio, p.data_referencia, s.codi_seccio_censal, b.nom_barri,
            d.nom_districte, p.sexe, p.valor
     FROM poblacio p
     JOIN seccio_censal s ON p.id_seccio_censal = s.id_seccio_censal
@@ -107,7 +113,7 @@ def get_population_by_barrio():
     total = request.args.get('total')
 
     query = """
-    SELECT b.nom_barri, 
+    SELECT b.nom_barri,
            SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
            SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
     FROM barri b
@@ -163,7 +169,7 @@ def get_population_by_distrito():
         result = [{'nom_districte': row[0], 'barrios': row[1].split(',')} for row in rows]
     else:
         query = """
-        SELECT d.nom_districte, 
+        SELECT d.nom_districte,
                SUM(CASE WHEN p.sexe = 1 THEN p.valor ELSE 0 END) AS hombres,
                SUM(CASE WHEN p.sexe = 2 THEN p.valor ELSE 0 END) AS mujeres
         FROM districte d
