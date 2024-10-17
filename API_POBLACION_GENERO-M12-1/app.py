@@ -29,7 +29,10 @@ def home():
               /poblacio<br>
               /barrio (barrio?hombres=1, barrio?mujeres=2, barrio?total=1)<br>
               /distrito (distrito?hombres=1, distrito?mujeres=2, distrito?total_barrio=1)"""
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 @app.route('/poblacio', methods=['GET'])
 def get_population():
