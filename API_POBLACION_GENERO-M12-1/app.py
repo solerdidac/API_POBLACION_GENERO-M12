@@ -12,6 +12,8 @@ app.config['DATABASE'] = {
     'charset': 'utf8'
 }
 
+ADMIN_API_KEY = "123456789"  # Clave API para autenticación
+
 def get_db_connection():
     """Establece una conexión a la base de datos MySQL."""
     conn = mysql.connector.connect(
@@ -22,6 +24,12 @@ def get_db_connection():
         charset=app.config['DATABASE']['charset']
     )
     return conn
+
+def verify_api_key():
+    """Verifica la clave API en los métodos POST, PUT, PATCH, DELETE."""
+    api_key = request.headers.get('x-api-key')
+    if api_key != ADMIN_API_KEY:
+        abort(403, description="Acceso prohibido: clave API incorrecta")
 
 @app.route('/')
 def home():
@@ -188,6 +196,7 @@ def get_population_by_distrito():
 @app.route('/poblacio/<int:id>', methods=['PUT'])
 def update_population(id):
     """Actualizar un registro de la población."""
+    verify_api_key()  # Verificación de clave API
     data = request.get_json()
     required_fields = ['data_referencia', 'id_seccio_censal', 'sexe', 'valor']
 
@@ -206,13 +215,23 @@ def update_population(id):
 
         conn.commit()
         if cursor.rowcount == 0:
-            return jsonify({"error": "No se encontró el registro para actualizar"}), 404
+            return jsonify({"error": "No se encontró el registro"}), 404
+
+        response = {
+            'id_poblacio': id,
+            'data_referencia': data['data_referencia'],
+            'id_seccio_censal': data['id_seccio_censal'],
+            'sexe': data['sexe'],
+            'valor': data['valor']
+        }
+
     except mysql.connector.Error as e:
-        conn.rollback()
         return jsonify({"error": str(e)}), 500
-    finally:
-        cursor.close()
-        conn.close()
-    return jsonify({"message": "Registro actualizado correctamente"}), 200
+
+    cursor.close()
+    conn.close()
+
+    return jsonify(response), 200
+
 if __name__ == '__main__':
     app.run(debug=True)
