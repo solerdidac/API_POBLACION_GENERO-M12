@@ -5,10 +5,10 @@ app = Flask(__name__)
 
 # Configuración de la base de datos
 app.config['DATABASE'] = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '',
-    'database': 'poblacio_genero',
+    'host': 'claylol.mysql.pythonanywhere-services.com',
+    'user': 'claylol',
+    'password': 'sergididac12',
+    'database': 'claylol$poblacio_genero',
     'charset': 'utf8'
 }
 
