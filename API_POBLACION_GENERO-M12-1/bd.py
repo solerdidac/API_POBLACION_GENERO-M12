@@ -3,15 +3,16 @@ import pandas as pd
 import os
 
 def connect_db():
-    """Conectar con la base de datos MySQL usando utf8mb4 para manejar correctamente acentos."""
+    """Conectar con la base de datos MySQL en PythonAnywhere."""
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="poblacio_genero",
+        host="claylol.mysql.pythonanywhere-services.com",
+        user="claylol",
+        password="sergididac12",
+        database="claylol$poblacio_genero",
         charset="utf8mb4",
-        use_unicode=True
+        use_unicode=True 
     )
+
 
 def insert_districte(cursor, codi_districte, nom_districte):
     """Insertar un distrito si no existe."""
