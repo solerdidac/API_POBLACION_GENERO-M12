@@ -1,5 +1,9 @@
 from flask import Flask, jsonify, request, abort
 import mysql.connector
+from flask_apispec import FlaskApiSpec, doc
+from apispec import APISpec
+from apispec.ext.marshmallow import MarshmallowPlugin
+from flask_swagger_ui import get_swaggerui_blueprint
 
 app = Flask(__name__)
 
@@ -29,6 +33,7 @@ def home():
     return "API de Població en funcionamiento,\nendpoints: /poblacio, /barrio, /distrito"
 
 @app.route('/poblacio', methods=['GET'])
+@doc(tags=['poblacio'])
 def get_population():
     """Obtener datos de la población con filtros."""
     conn = get_db_connection()
@@ -89,6 +94,7 @@ def get_population():
     return jsonify(result)
 
 @app.route('/barrio', methods=['GET', 'POST', 'PUT', 'PATCH', 'DELETE'])
+@doc(tags=['barrio'])
 def manage_barrio():
     """Manejar el barrio con todos los métodos HTTP: GET, POST, PUT, PATCH, DELETE."""
     conn = get_db_connection()
@@ -225,6 +231,7 @@ def manage_barrio():
         return jsonify({"message": "Barrio eliminado correctamente"}), 200
 
 @app.route('/distrito', methods=['GET'])
+@doc(tags=['distrito'])
 def get_population_by_distrito():
     """Obtener el número de hombres, mujeres o el total por distrito según los parámetros de consulta."""
     conn = get_db_connection()
@@ -265,6 +272,37 @@ def get_population_by_distrito():
     conn.close()
 
     return jsonify(result)
+
+app.config.update({
+    'APISPEC_SPEC': APISpec(
+        title="API de muestra",
+        version="1.0.0",
+        plugins=[MarshmallowPlugin()],
+        openapi_version="3.0.2"
+    ),
+    'APISPEC_SWAGGER_URL': '/swagger.json',  # URL para el JSON de Swagger
+})
+
+# Inicializar y registrar la documentación
+docs = FlaskApiSpec(app)
+
+# Configuración de la interfaz Swagger UI
+SWAGGER_URL = '/swagger-ui'  # URL para acceder a la interfaz de Swagger UI
+API_URL = '/swagger.json'  # URL del archivo JSON con la especificación de la API
+swaggerui_blueprint = get_swaggerui_blueprint(SWAGGER_URL, API_URL)
+
+# Registrar el blueprint de Swagger UI en la app Flask
+app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
+
+# Ruta para servir el archivo JSON de la especificación Swagger
+@app.route('/swagger.json')
+def swagger_json():
+    return jsonify(docs.spec.to_dict())
+
+# Registrar las vistas de los diferentes métodos para que aparezcan en la documentación
+docs.register(get_population)
+docs.register(manage_barrio)
+docs.register(get_population_by_distrito)
 
 if __name__ == '__main__':
     app.run(debug=True)
